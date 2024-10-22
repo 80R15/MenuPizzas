@@ -1,0 +1,41 @@
+/* .kalam-light {
+  font-family: "Kalam", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.kalam-regular {
+  font-family: "Kalam", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kalam-bold {
+  font-family: "Kalam", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+.dancing-script-<uniquifier> {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.qwitcher-grypen-regular {
+  font-family: "Qwitcher Grypen", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.qwitcher-grypen-bold {
+  font-family: "Qwitcher Grypen", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+ */

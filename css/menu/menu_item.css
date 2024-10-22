@@ -1,0 +1,12 @@
+.menu_item{
+    list-style: none;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    color: #ec3e4b;
+    font-size: 1.3rem;
+}
+
+.menu_item:hover{
+    text-decoration: ;
+    color: #e89d20
+}

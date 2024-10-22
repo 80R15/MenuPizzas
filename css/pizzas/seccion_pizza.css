@@ -1,0 +1,10 @@
+.seccion_pizza{
+     font-family: "Kalam", cursive;
+     font-weight: 300;
+     font-style: normal;           
+     display: flex;
+     /* background-color: beige; */
+     padding: 1rem;
+     margin: 0.5rem;    
+}
+

@@ -1,0 +1,16 @@
+.banner_titulo {
+    color: #fdfdfd;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 5.0625rem;
+    font-weight: 200;
+    position: absolute;
+    left: 50%;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    top: 20%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 80%;
+}
