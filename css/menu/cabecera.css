@@ -2,6 +2,11 @@
     align-items: center;
     display: flex;
     justify-content: space-between;
-    padding: 1.13rem;
+    padding: 1rem;
     background: #f9f9f9;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(144, 0, 0);
 }

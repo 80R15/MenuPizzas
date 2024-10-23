@@ -1,3 +1,29 @@
 .cars{
-    display: inline-block;
+    display: flex;
+}
+
+.car_pizzas{
+    background-color: blanchedalmond;
+    width: 10rem;
+    margin: 1rem;
+    position: relative;
+    text-align: center;
+    padding: 1rem 0 0 0; 
+
+    
+}
+
+.car_bebidas{
+    background-color: blanchedalmond;
+    border-radius: 0.72rem 0.72rem 1rem 1rem;
+    width: 10rem;
+    margin: 1rem;
+    position: relative;
+    text-align: center; 
+    padding: 1rem 0 0 0;   
+}
+
+a{
+    text-decoration: none;
+    color: rgb(144, 0, 0);
 }

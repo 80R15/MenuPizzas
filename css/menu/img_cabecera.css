@@ -1,3 +1,7 @@
-.img_cabecera{
-    height:calc(12vh - 72px);
+.img_pizza1{
+    height:calc(12vh - 50px);
+}
+
+.img_bebida1{
+    height:calc(12vh - 50px);
 }

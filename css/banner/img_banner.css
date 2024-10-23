@@ -1,5 +1,7 @@
 .banner_img{
     background: url('../../assets/img/Portada2.jpeg') no-repeat center / cover;
-    height:calc(30vh - 72px);
     width: 100%;
+    height:calc(30vh - 40px);
+    border-radius: 0 0 1rem 1rem;
+    
 }
