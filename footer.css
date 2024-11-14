@@ -1,5 +1,11 @@
 footer{
     display: grid;
-    min-height: 100dvh;
-    grid-template-rows: auto 1fr auto;
+    place-items: center;
+    flex-direction: row;
+
+    
+}
+
+.redes{
+    padding: 0.5rem;
 }

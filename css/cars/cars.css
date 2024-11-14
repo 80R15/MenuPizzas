@@ -4,7 +4,8 @@
 
 .car_pizzas{
     background-color: blanchedalmond;
-    width: 10rem;
+    border-radius: 0.72rem 0.72rem 1rem 1rem;
+    width: 15rem;
     margin: 1rem;
     position: relative;
     text-align: center;
@@ -16,7 +17,7 @@
 .car_bebidas{
     background-color: blanchedalmond;
     border-radius: 0.72rem 0.72rem 1rem 1rem;
-    width: 10rem;
+    width: 15rem;
     margin: 1rem;
     position: relative;
     text-align: center; 
@@ -24,6 +25,7 @@
 }
 
 a{
+    
     text-decoration: none;
     color: rgb(144, 0, 0);
 }
